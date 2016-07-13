@@ -2,7 +2,7 @@
 Simple current probe pcb for use with eurorack synthesizer modules. 
 
 
-![Board reander](https://cloud.githubusercontent.com/assets/1520517/16801292/250a90ba-48fa-11e6-9d51-85850917d054.png)
+![Board reander](https://cloud.githubusercontent.com/assets/1520517/16803033/3ddb616e-4904-11e6-85b3-0ae288bbe6a0.png)
 
 
 Copyright (c) 2016 Thomas Hopman
