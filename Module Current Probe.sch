@@ -699,6 +699,7 @@ DIN A4, landscape with extra doc field</description>
 <part name="J8" library="con-banana" deviceset="BANANA-JACK" device=""/>
 <part name="JP1" library="pinhead" deviceset="PINHD-2X8" device=""/>
 <part name="FRAME1" library="frames" deviceset="DINA4_L" device=""/>
+<part name="J9" library="con-banana" deviceset="BANANA-JACK" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -724,6 +725,7 @@ DIN A4, landscape with extra doc field</description>
 <instance part="FRAME1" gate="G$2" x="162.56" y="0" smashed="yes">
 <attribute name="SHEET" x="248.92" y="1.27" size="2.54" layer="94" font="vector"/>
 </instance>
+<instance part="J9" gate="G$1" x="129.54" y="137.16" rot="R180"/>
 </instances>
 <busses>
 </busses>
@@ -862,6 +864,11 @@ DIN A4, landscape with extra doc field</description>
 <wire x1="137.16" y1="101.6" x2="152.4" y2="101.6" width="0.1524" layer="91"/>
 <label x="144.78" y="101.6" size="1.778" layer="95"/>
 <pinref part="JP1" gate="A" pin="7"/>
+</segment>
+<segment>
+<pinref part="J9" gate="G$1" pin="PIN"/>
+<wire x1="127" y1="137.16" x2="116.84" y2="137.16" width="0.1524" layer="91"/>
+<label x="116.84" y="137.16" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="-12V" class="0">
