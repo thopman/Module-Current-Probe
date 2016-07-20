@@ -1,8 +1,17 @@
 # Module-Current-Probe
-Simple current probe pcb for use with eurorack synthesizer modules. 
+Simple current probe pcb for use with eurorack and motm synthesizer modules. 
+
+Currently there are 2 versions. V1 - for eurorack modules only and V2 - for eurorack and motm modules.
+
+V1
+
+![V1 - Board render](https://cloud.githubusercontent.com/assets/1520517/16801292/250a90ba-48fa-11e6-9d51-85850917d054.png)
 
 
-![Board reander](https://cloud.githubusercontent.com/assets/1520517/16803033/3ddb616e-4904-11e6-85b3-0ae288bbe6a0.png)
+
+V2
+
+![V2 - Board render](https://cloud.githubusercontent.com/assets/1520517/16990897/0cf49cb4-4e9a-11e6-985c-c5ed1dc55f15.png)
 
 
 Copyright (c) 2016 Thomas Hopman
