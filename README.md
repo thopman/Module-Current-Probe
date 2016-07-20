@@ -6,6 +6,7 @@ Makes it easy to place a current meter in series with power headers. Also makes 
 Currently there are 2 versions. V1 - for eurorack modules only and V2 - for eurorack and motm modules.
 
 
+
 V1
 
 ![V1 - Board render](https://cloud.githubusercontent.com/assets/1520517/16803033/3ddb616e-4904-11e6-85b3-0ae288bbe6a0.png)
@@ -19,6 +20,8 @@ BOM - V1
 7 x 4 mm banana jack
 
 optional 4 x M3 standoff (+ m3 screws or nuts)
+
+
 
 V2
 
