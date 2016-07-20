@@ -19,6 +19,8 @@ BOM - V1
 
 7 x 4 mm banana jack
 
+5 x 2.54mm jumpers
+
 optional 4 x M3 standoff (+ m3 screws or nuts)
 
 
@@ -36,6 +38,8 @@ BOM - V2
 1 x unshrouded 2x8 2.54mm pin header
 
 7 x 4 mm banana jack
+
+5 x 2.54mm jumpers
 
 optional 4 x M3 standoff (+ m3 screws or nuts)
 
