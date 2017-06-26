@@ -1,7 +1,7 @@
 # Module-Current-Probe
 Simple current probe pcb for use with eurorack and motm synthesizer modules. 
 
-Makes it easy to place a current meter in series with power headers. Also makes it easy to power a module with a current-limited lab power-supply. Make sure to jump any power rails which are not in use. 
+Makes it easy to place a current meter in series with power headers. Also makes it easy to power a module with a current-limited lab power-supply. Make sure to jump any power rails which are not in use for measurement. 
 
 Currently there are 2 versions. V1 - for eurorack modules only and V2 - for eurorack and motm modules.
 
